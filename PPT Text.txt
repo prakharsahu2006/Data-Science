@@ -1,0 +1,15 @@
+Agenda - What will your presentation cover? This Presentation will cover the market and sentiment analysis associated with the dataset. We will also check the market interest and other impact factors. 
+Project Recap - What are the key points from the brief?
+-There are 16 Categories in total.
+-Top 5 categories on the basis of Score are: Animals, Science, Healthy Eating, Technology and Food.
+-Bottom 5 categories on the basis of Score are: Public Speaking, Tennis, Veganism, Dogs and Studying. 
+-As per the analysis, we believe that more content should be created on the bottom 5 categories as they belongs to the most disliked ones. 
+-More views recorded in 2020 in comparision to 2021, probably due to Covid.
+Problem - What is the problem that you answer in this presentation?: Since the company is new and willing to reach to their expected outcomes, some initial analysis were performed according to their requirements and upcoming goals using: 
+-Market and Sentiment Analysis of Viewers.
+-Categorical analysis. 
+-Content analysis.
+-Periodical analysis
+The Analytics team - Who is on your team?
+As a reminder from the earlier task - this includes: Andrew Fleming (Chief Technical Architect), Marcus Rompton (Senior Principle), and Prakhar Sahu
+Process - How did you complete your analysis?: Three datasets were provided for analysis. All datasets were first cleaned, merged togwther using Excel and then visualized for better analysis using Tableau.
